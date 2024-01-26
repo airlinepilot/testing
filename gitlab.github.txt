@@ -1,0 +1,100 @@
+ 
+==============
+gitlab.com
+==============
+
+username: airlinepilot
+Password: @11April1957
+email: dyoung.a320@gmail.com
+
+repos:
+https://gitlab.com/arch2fnwo
+DY LOGO
+==============
+github.com
+==============
+
+username: airlinepilot
+Password: @11April1957
+email: dyoung.a320@gmail.com
+DY LOGO
+repos:
+MANY HUGE LIST
+
+==============
+DOCKER
+==============
+https://hub.docker.com/
+User: airlinepilot
+pwd: @11April1957
+email: dyoung.a320@gmail.com
+Signin with github
+
+
+GitLab and GitHub Desktop Tutorial by IEEE Middlesex Uni
+Git and GitHub for Beginners - Crash Course freecodecam.org 1:08:00
+
+Dont worry this is a test and my password @11April1957 wil be changed providing it all for my personal clarity
+
+git version 2.43.0
+Username / password
+github: airlinepilot @11April1957
+gitlab: airlinepilot @11April1957
+
+github desktop ? GitKraken
+gitlab desktop ? GitKraken
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDGeo/y8ROMesl+X+Zmv3EX2Nu5txidp9XCiFgbguXwyuKDZbaykPwjpKlO7mMG1nNTN+vIhFCcEhnV257qRwj7va+rHCOQAIj8bugWdzcRhzePJD4b1l8dgRN2RIUVOgeYf2ci/awbg4muRLWrVzSHwa4WppaajWzlGUXI7qlKnMg98EjbsOSKLMW1MD9Q8RqX7ygBB/iyWsJH4v4f+dWG9bBkDI5EqK6aYzLv68hxhO7CxEEWK8NYirKjDDduW6KX5rlb/5o4PjW3cg5y8dN9oLsoadL0tpn1epoyjy4goT/2WOwCmXP+Y1kSz2Zs1eXEpl/Rt7d0FsMKFK+OwWWW2F5QVfHwDd7m9jqgor85dQZy1wygBVCL8tJ3hDrQ1CZ9WxgrpBcDevipK0q/q+UdSQsrW2qcG/Vi1Q+IyUD9W63RtRwe/gJ/HNo7HXGhm8MWaUIOwXhaTftCCBDXeKs/lEg3wwrFT1hwGomc92GZKlLl7yYY7gTqrAm9ExuvxidMjUZeSQS6XOYn4nUbefHhVYcGsSMACm3Okv0X5oVOE7vxLB71O4yaICsIVKfmtrAJM83d8oW9V65A+qJMY0z6Xca5ZDmWnzRotxg9tBq4KRdq/6kWxeg3B6sNFiwlW1iyeL1Qva/DOrlCYxHQvISToK7Ood9vWuSfXA/lNsLrhw== dyoung.a320@gmail.com
+
+
+
+github
+  github PAT Token Name: dyoung-token-github
+  github PAT Token Access: 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  <-- Use in to GitLAB for cloning
+
+gitlab
+  GROUP: Hackathon-NWO  https://gitlab.com/hackathon-nwo
+  PROJECT: testing  https://gitlab.com/hackathon-nwo/testing
+  CLONE with HTTPS: https://gitlab.com/hackathon-nwo/testing.git
+
+--
+  gitlab PAT Token Name: dyoung-token-gitlab
+  gitlab PAT Token Access: glpat-E2p7BYfcQAqAGSji14CW <-- Use in TO Github for cloning
+  gitlab Feed Token: glft-kbLLT5pmyx5rDs6xj7Py
+  gitlab Incoming email Token: glimt-bov58fjjpr86ywjeuviks16aa
+
+Github ADD-->COMMITT-->PUSH
+
+====================================================================================================
+GITHUB
+
+Are these 2 lines to be added to Smartgit or to be run from the terminal?
+PRIVATE
+smartgit clone https://airlinepilot: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@github.com/airlinepilot/private-repository.git
+PUBLIC
+smartgit clone https://github.com/airlinepilot/public-repository.git
+BOTH
+smartgit clone https://github.com/airlinepilot/repository.git
+
+
+
+ ~  git clone https://github.com/airlinepilot/grbl.git                                                                       ✔  20:46:02
+
+Cloning into 'grbl'...
+remote: Enumerating objects: 4528, done.
+remote: Total 4528 (delta 0), reused 0 (delta 0), pack-reused 4528
+Receiving objects: 100% (4528/4528), 2.15 MiB | 4.93 MiB/s, done.
+Resolving deltas: 100% (3432/3432), done.
+ ~  git clone https://airlinepilot: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@github.com/airlinepilot/POD.git             ✔  7s  20:46:10
+
+Cloning into 'POD'...
+remote: Enumerating objects: 23, done.
+remote: Total 23 (delta 0), reused 0 (delta 0), pack-reused 23
+Receiving objects: 100% (23/23), 4.11 MiB | 4.35 MiB/s, done.
+Resolving deltas: 100% (2/2), done.
+ ~ 
+
+====================================================================================================
+--> GitKraken: GitKraken was popular for its user-friendly interface and feature set. It provides a visual representation of your Git repositories and supports features like pull requests and code reviews. It also supports Linux, Windows, and macOS. GitKraken tends to have regular updates to add new features and improvements.
+
+SmartGit: SmartGit is another well-regarded Git GUI with a focus on providing a smooth user experience. It offers a variety of features, including support for GitFlow, a built-in SSH client, and more. Like GitKraken, SmartGit is cross-platform, supporting Linux, Windows, and macOS. It receives regular updates to enhance functionality and address issues.
